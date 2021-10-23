@@ -1,10 +1,8 @@
 #include <iostream>
-#include <string>
 #include <fstream>
 
 using namespace std;
 
-//This is a template
 int main() {
     ifstream inFile; //Input file definition (you have to create it, see included input.txt)
     ofstream outFile; //Output file definition (to be created automatically)
